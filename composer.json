@@ -1,5 +1,5 @@
 {
-  "name": "datitisev/flarum-ext-dashboard",
+  "name": "pkmngodev/flarum-ext-dashboard",
   "description": "A dashboard for the admin interface in Flarum",
   "type": "flarum-extension",
   "require": {
@@ -16,7 +16,11 @@
       "email": "dsevilla192@icloud.com",
       "homepage": "https://github.com/datitisev",
       "role": "Developer"
-    }
+    },
+	{
+	  "name": "/r/PokemonGoDev",
+      "homepage": "https://github.com/pkmngodev"
+	}
   ],
   "autoload": {
     "psr-4": {
