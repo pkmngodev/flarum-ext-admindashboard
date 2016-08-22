@@ -1,5 +1,5 @@
 {
-  "name": "pkmngodev/flarum-ext-dashboard",
+  "name": "pogodevorg/flarum-ext-dashboard",
   "description": "A dashboard for the admin interface in Flarum",
   "type": "flarum-extension",
   "require": {
@@ -11,16 +11,17 @@
     }
   },
   "authors": [
+	{
+	  "name": "/r/PokemonGoDev",
+      "homepage": "https://github.com/pogodevorg"
+	},
     {
       "name": "David Sevilla Martín",
       "email": "dsevilla192@icloud.com",
       "homepage": "https://github.com/datitisev",
       "role": "Developer"
-    },
-	{
-	  "name": "/r/PokemonGoDev",
-      "homepage": "https://github.com/pkmngodev"
-	}
+    }
+
   ],
   "autoload": {
     "psr-4": {
