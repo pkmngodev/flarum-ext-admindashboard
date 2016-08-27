@@ -1,13 +1,47 @@
-# Datitisev's New Admin Look
+[![POGODEV](https://github.com/pogodevorg/assets/blob/master/img/logo-github.png)](https://pogodev.org)
 
-This is a Flarum extension
+# flarum-ext-admindashboard [![license](https://img.shields.io/github/license/pogodevorg/flarum-ext-admindashboard.svg?maxAge=2592000?style=flat-square)](https://github.com/pogodevorg/flarum-ext-admindashboard/blob/master/LICENSE)
 
----
+## Table of Contents
 
-Packagist: https://packagist.org/packages/datitisev/flarum-ext-dashboard
-Github: https://github.com/datitisev/flarum-ext-admindashboard
+* [What is it?](#what-is-it)
+* [Installation](#installation)
+* [Documentation](#documentation)
+* [Contributing](#contributing)
+  * [Core Maintainers](#core-maintainers)
+* [Licensing](#licensing)
+  * [Third Party Licenses](#third-party-licenses)
+* [Credits](#credits)
 
-This completly changes the admin interface, into one single page (not as of right now)
-Example:
+## What is it?
+`flarum-ext-admindashboard` is an extension for [Flarum](https://github.com/flarum/core) that redesigns the baren default Admin Dashboard provided in Flarum and gives it a purpose.
 
-![Screenshot 5/19/2016](https://i.imgsafe.org/62dd0bf.gif)
+## Installation
+The only way to get `flarum-ext-admindashboard` is with `composer`:
+* In the [Flarum](https://github.com/flarum/core) root dir run the following:
+```composer require pogodevorg/flarum-ext-admindashboard```
+* Enable `Admin Dashboard` from the extension page in the administration panel.
+
+## Documentation
+To obtain GitHub repo updates in the Dashboard, you need to register a [GitHub OAuth application](https://github.com/settings/applications/new). After registering, simply input the `Client ID` and `Client Secret` into the Dashboard settings.
+
+## Licensing
+[MIT](https://github.com/pogodevorg/flarum-ext-admindashboard/blob/master/LICENSE)
+
+### Third Party Licenses
+    None
+
+## Contributing
+Currently, you can contribute to this project by:
+* Submitting a detailed [issue](https://github.com/pogodevorg/flarum-ext-admindashboard/issues/new).
+* [Forking the project](https://github.com/pogodevorg/flarum-ext-admindashboard/fork), and sending a pull request back to for review.
+
+### Core Maintainers
+
+* [![Build Status](https://github.com/lisiano256.png?size=36) - Lisiano256](https://github.com/lisiano256)
+
+## Credits
+
+Credits to Datitisev for the extension.
+
+Adapted to better suit the darktheme and any other darkmode themes.
