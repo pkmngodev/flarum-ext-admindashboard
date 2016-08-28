@@ -1,9 +1,8 @@
-[![POGODEV](https://github.com/pogodevorg/assets/blob/master/img/logo-github.png)](https://pogodev.org)
+[![POGODEV](https://github.com/pogodevorg/assets/blob/master/public/img/logo-github.png?raw=true)](https://pogodev.org)
 
-# flarum-ext-admindashboard [![license](https://img.shields.io/github/license/pogodevorg/flarum-ext-admindashboard.svg?maxAge=2592000?style=flat-square)](https://github.com/pogodevorg/flarum-ext-admindashboard/blob/master/LICENSE)
+# flarum-ext-admindashboard [![Build Status](https://img.shields.io/travis/pogodevorg/flarum-ext-admindashboard/master.svg)](https://img.shields.io/travis/pogodevorg/flarum-ext-admindashboard) [![Coverage Status](https://coveralls.io/repos/github/pogodevorg/flarum-ext-admindashboard/badge.svg?branch=master)](https://coveralls.io/github/pogodevorg/flarum-ext-admindashboard?branch=master) [![license](https://img.shields.io/github/license/pogodevorg/flarum-ext-admindashboard.svg?maxAge=2592000?style=flat-square)](#)
 
 ## Table of Contents
-
 * [What is it?](#what-is-it)
 * [Installation](#installation)
 * [Documentation](#documentation)
@@ -44,4 +43,4 @@ Currently, you can contribute to this project by:
 
 Credits to Datitisev for the extension.
 
-Adapted to better suit the darktheme and any other darkmode themes.
+Adapted to better suit the darktheme and any other darkmode themes especially the PogoDev Forums ([https://talk.pogodev.org](https://talk.pogodev.org)).
